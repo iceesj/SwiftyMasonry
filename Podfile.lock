@@ -1,0 +1,18 @@
+PODS:
+  - JLRoutes (1.6)
+  - Masonry (0.6.4)
+  - Siren (0.8.0)
+
+DEPENDENCIES:
+  - JLRoutes (~> 1.5)
+  - Masonry (~> 0.6)
+  - Siren (~> 0.6)
+
+SPEC CHECKSUMS:
+  JLRoutes: 435d791422e96c9b9b5e1c4db1aedb3ae1b1a08f
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  Siren: e37819c0ef6130098e31ba01cd66857e574bd01a
+
+PODFILE CHECKSUM: 52b351036eac96985ad062c196db6a020aed7b22
+
+COCOAPODS: 1.0.1
